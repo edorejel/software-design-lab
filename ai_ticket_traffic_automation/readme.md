@@ -1,6 +1,6 @@
 # ai enhanced e-ticket and traffic infraction automated service
 
-This is a hypothetical service. I may code up a simplistic model.
+This is a hypothetical service. I may code up a simplistic model. (*I'm pretty sure this could work in real life.*)
 
 #### software design concept 
 
