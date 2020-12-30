@@ -11,7 +11,7 @@ This is a hypothetical service. I may code up a simplistic model. (*I'm pretty s
 - goal #3: almost guaranteed payment of tickets and infractions (increase state inbound money)
 - goal #4: upgrade, upgrade, upgrade
 
-![ai enhanced ticket system](https://raw.githubusercontent.com/xpqx/software-design/main/ai_ticket_traffic_automation/files/e_ticket_automation_serv.png)
+![ai enhanced ticket system](https://raw.githubusercontent.com/xpqx/software-design/main/ai_traffic_ticket_automation/files/e_ticket_automation_serv.png)
 
 
 #### Smart License Plate and Enhanced Drivers License
