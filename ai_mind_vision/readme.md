@@ -126,10 +126,8 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 
 #### The Problem of Bringing People Back from the Dead
 
-This problem might be greater than the problem of evil.
-
-- https://github.com/xpqx/disclaimerReadFirst/blob/master/PhD_wild_topics/D/death/readme.md#the-problem-of-bringing-people-back-from-the-dead
-
+__Update! I love this idea!__ Imagine being able to do this? I'll definitely re-upload this after I review my original thoughts.
+This problem might be greater than the problem of evil.  
 
 #### Bioshock Infinite
 - Bioshock Infinite Full Storyline Explained (Campaign & Burial at Sea) https://www.youtube.com/watch?v=54GS-hDb3Y8
