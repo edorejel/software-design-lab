@@ -18,17 +18,6 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - types of proofs https://www.sparknotes.com/math/geometry3/geometricproofs/terms/
 - eyewitness proof best kind? https://www.psychologicalscience.org/uncategorized/myth-eyewitness-testimony-is-the-best-kind-of-evidence.html
 - (3) intuition https://en.wikipedia.org/wiki/Intuition  
-- ----------------------------------------------------------------------------------------------
-#### Patent Possibilities
-
-Gonna try to file a patent on the mind-vision system. Let's see how it goes.
-
-- -------------------------------------------------------------------------------------------------------
-#### Possible Uses for AI
-
-- Solve parking ticket disputes https://github.com/xpqx/softwareEngineering/tree/master/define_your_own_software/AI_ToSolveParkingTicketDisputes
-
-- ---------------------------------------------------------------------------------------------------
 
 #### AI Queries to Ponder 
 
@@ -40,7 +29,7 @@ Gonna try to file a patent on the mind-vision system. Let's see how it goes.
 - ----------------------------------------------------------------------------------------------------------------
 #### Test Cases
 
-- https://github.com/xpqx/softwareEngineering/blob/master/define_your_own_software/mind_vision/test_cases/readme.md
+- https://github.com/xpqx/software-design/tree/main/ai_mind_vision/test_cases#test-cases
 - ----------------------------------------------------------------------------------------------------------------
 - ------------------------------------------------------------------------------------------------
 
