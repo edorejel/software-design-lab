@@ -1,4 +1,4 @@
-# Vision Restoration Mind Processing
+# Mind Vision
 
 (*Project is due for revision. I've grown a lot as a person. Can something be coded from this? I don't know...*)
 
