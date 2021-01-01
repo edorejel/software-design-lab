@@ -1,5 +1,5 @@
 - ---------------------------------------------------------------------------------------------------------
-![mind-vision-0](https://raw.githubusercontent.com/xpqx/softwareEngineering/master/define_your_own_software/mind_vision/files/mind_vision_0.png)
+![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
 - ---------------------------------------------------------------------------------------------------------
 ![mind-vision-1](https://raw.githubusercontent.com/xpqx/softwareEngineering/master/define_your_own_software/mind_vision/files/mind_vision_1.png)
 - ---------------------------------------------------------------------------------------------------------
