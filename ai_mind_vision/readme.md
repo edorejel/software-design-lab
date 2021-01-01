@@ -96,9 +96,7 @@ advantageous gene driven output.
 
 There are some philosophical issues related to COVID-19. I am posting them here for analysis.
 
-- https://github.com/covid-cure/COVID-19/tree/master/COVID-19_Philosophical_Issues#covid-19-philosophical-issues
-
-
+- I'll re-upload these later. I think I need to review them.
 
 #### Ideological Subversion 
 
