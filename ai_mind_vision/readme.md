@@ -1,5 +1,7 @@
 # Vision Restoration Mind Processing
 
+Project is due for revision. I've grown a lot as a person.
+
 - -----------------------------------------------------------------------------------------------
 - There's two projects here:
 - -----------------------------------------------------------------------------------------------
