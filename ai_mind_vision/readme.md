@@ -22,6 +22,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 - ---------------------------------------------------------------------------------------------------------------
 #### It Started With This
+(*I think this flowchart is tattoo worthy!*)
 
 ![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
 
