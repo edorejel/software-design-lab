@@ -1,15 +1,11 @@
 # Vision Restoration Mind Processing
 
 Project is due for revision. I've grown a lot as a person. Can something be coded from this? I don't know...
+There's one projects here. I 'dreamt' up this project on the side during an advanced software engineering class. Perhaps the research I did in that course helped facilitate the creation of this system.
 
 - -----------------------------------------------------------------------------------------------
-- There's two projects here:
-- -----------------------------------------------------------------------------------------------
-#### Mind Vision
 
-(1) One is a vision restoration system. 
-
-#### Basic Artificial Intelligence (AI) System
+#### Mind Vision - Basic Artificial Intelligence (AI) System
 
 I need a name for this thing. I think this is more of a male AI than a female AI.
 
