@@ -33,7 +33,7 @@ Gonna try to file a patent on the mind-vision system. Let's see how it goes.
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 - ---------------------------------------------------------------------------------------------------------------
-![mind-vision-17](https://raw.githubusercontent.com/xpqx/softwareEngineering/master/define_your_own_software/mind_vision/files/mind_vision_19.png)
+![mind-vision-19](https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png)
 - ----------------------------------------------------------------------------------------------------------------
 - ----------------------------------------------------------------------------------------------------------------
 #### Test Cases
