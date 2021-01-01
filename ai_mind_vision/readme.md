@@ -21,6 +21,12 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 - ---------------------------------------------------------------------------------------------------------------
+#### It Started With This
+
+[mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
+
+
+#### It Transformed Into This, But It Needs Work
 ![mind-vision-19](https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png)
 - ----------------------------------------------------------------------------------------------------------------
 - ----------------------------------------------------------------------------------------------------------------
