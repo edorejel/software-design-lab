@@ -1,6 +1,6 @@
 # Vision Restoration Mind Processing
 
-Project is due for revision. I've grown a lot as a person.
+Project is due for revision. I've grown a lot as a person. Can something be coded from this? I don't know...
 
 - -----------------------------------------------------------------------------------------------
 - There's two projects here:
