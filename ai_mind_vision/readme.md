@@ -10,11 +10,11 @@ There's one projects here. I 'dreamt' up this project on the side during an adva
 
 I need a name for this thing. I think this is more of a male AI than a female AI.
 
-(2) The other is a basic artificial intelligence system.
+#### Minor Research to Help With The Project
 
 - types of proofs https://www.sparknotes.com/math/geometry3/geometricproofs/terms/
 - eyewitness proof best kind? https://www.psychologicalscience.org/uncategorized/myth-eyewitness-testimony-is-the-best-kind-of-evidence.html
-- (3) intuition https://en.wikipedia.org/wiki/Intuition  
+- intuition https://en.wikipedia.org/wiki/Intuition  
 
 #### AI Queries to Ponder 
 
