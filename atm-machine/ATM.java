@@ -1,4 +1,8 @@
-package deitel.java.ch13;
+package deitel.java.ch13.atm;
+
+import deitel.java.ch13.atm.transaction.Deposit;
+import deitel.java.ch13.atm.transaction.Transaction;
+import deitel.java.ch13.atm.transaction.Withdrawal;
 
 public class ATM {
 
@@ -52,7 +56,7 @@ public class ATM {
 		int pin = keypad.getInput();
 
 		//set userAuthenticated to boolean value returned by database
-		userAuthenticated = bankDatabase.authenticatedUser( accountNumber, pin);
+		userAuthenticated = bankDatabase.authenticateUser( accountNumber, pin);
 
 		//check whether authentication succeeded
 		if (userAuthenticated) {
@@ -100,6 +104,7 @@ public class ATM {
 		screen.displayMessageLine( "3 - Deposit funds" );
 		screen.displayMessageLine( "4 - Exit\n" );
 		screen.displayMessageLine( "Enter choice" );
+		return keypad.getInput();
 	}//end method displayMainMenu
 
 	private Transaction createTransaction (int type) {
