@@ -1,3 +1,3 @@
 # software design
 
-- Various software design projects that I don't mind sharing publicly.
+- Various software design projects and source code apps.
