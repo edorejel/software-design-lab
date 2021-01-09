@@ -1,3 +1,15 @@
+### no formal research yet, just flushing out requirements as they are thought out
+
+- __possible research focus: analyze the effect of having a 100% paper-free campus,__ that is, how many other tasks are related to
+delivering or using paper at a school, what is the complete supply chain of paper from start to end, examine every action that is performed to have paper delivered to a school, examine every action and its impact on the environment, what type of energy is expended to ensure a school never runs out of paper
+- __a 100% paper free campus__ also includes paper such as construction paper for art classes
+- __eliminate physical education classess__ - some 6-12 campuses do not have physical education classes nor physical education teachers, a (smart) campus should be evaluated to determine if physical education classes can be removed in place of more academic classes
+- potential gain in eliminating physical education classes in favor of academic classes, this should be happening at any school that is underperforming or at risk of being labeled an underperforming school, __if students are performing poorly at a campus, the last thing the students should be doing is playing outside in a physical education class__
+- __eliminate full time physical education teachers and classes,__ incorporate physical education as an elective that is taught by regular teachers, limit the elective to 1-hour 3 days a week, or 1-hour 2 days a week, or an end-of-day period of instructions, physical education is not necessarily needed as an actual class in some schools, it should be eliminated or replaced, if possible
+- physical education classes and teachers can be replaced with __foreign language teachers,__ __engineering teachers,__ __computer science teachers__ or __dance teachers,__ any type of class that would expose students to different types of technologies, cultures or art could replace physical education classes
+- __teachers that replace physical education teachers__ should teach a subject that will reinforce the topics that students have the most difficulty with, these topics tend to be science and math related
+- __as far as removing physical education classes,__ I'd wager you could make the argument that physical education classes are more of a burden than a benefit for some 6-12 grade schools
+
 ### general requirements
 
 - smart campus assumes mobile devices will be used by all personnel and students
