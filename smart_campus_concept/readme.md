@@ -6,3 +6,7 @@ A 6-12 grade concept in education that assumes learning will take place in a cla
 
 
 More information coming soon! I'm trying to make this one more presentable.
+
+
+Small update. Brainstorming for this was interesing to a certain extent.
+
