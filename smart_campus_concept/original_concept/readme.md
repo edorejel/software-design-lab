@@ -43,7 +43,7 @@
 - smart campus assumes that by having teachers shift to all digital assignments, there will be less clutter as well as less excuses to not do assignments
 - smart campus assumes that by having all assignments in digital format, students will only exit the classroom when the period is over, to go to the office, to go speak with another teacher, to go to the restroom
 
-### Paper Elimination Research
+### paper elimination research
 - __disclaimer:__ links on the paper issue below have not been read thoroughly, links are being compiled for later reading
 
 - Paper and Pencil Curriculum: Paper and Pencil Curriculum: How Much Do You Rely on It? https://www.edutopia.org/blog/paperless-schools-techology-ben-johnson
