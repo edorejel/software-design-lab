@@ -43,6 +43,25 @@
 - smart campus assumes that by having teachers shift to all digital assignments, there will be less clutter as well as less excuses to not do assignments
 - smart campus assumes that by having all assignments in digital format, students will only exit the classroom when the period is over, to go to the office, to go speak with another teacher, to go to the restroom
 
+### Paper Elimination Research
+- __disclaimer:__ links on the paper issue below have not been read thoroughly, links are being compiled for later reading
+
+- Paper and Pencil Curriculum: Paper and Pencil Curriculum: How Much Do You Rely on It? https://www.edutopia.org/blog/paperless-schools-techology-ben-johnson
+- How much paper do schools use? https://www.frevvo.com/blog/how-much-paper-do-schools-use/
+- Changing Paper Consumption http://www.greenschools.net/article.php-id=75.html
+- Paper use in schools - The Reflective Educator - https://davidwees.com/content/paper-use-schools/
+- The 4 Benefits For Schools Going From Paper To Digital https://www.moqproducts.com.au/skoolbag/blog/benefits-of-going-paperless-in-schools/
+- 16k of our school’s budget is spent on paper every year https://mystudentvoices.com/16k-of-our-schools-budget-is-spent-on-paper-every-year-what-the-actual-fuck-821eec101b27
+- --------------------------------------------------------------------------------------------------------
+- ---------------------------------------------------------------------------------------------------------
+### preliminary analysis
+- not having a 100% paper-free campus is more of a negative than a positive for many factors
+- any money saved by not using paper can be allocated to other areas such as hiring competent staff, for example, hiring 
+actual security personnel, instead of giving a walkie-talkie to an office worker (or secretary) to play the role of a security guard
+- eliminating paper seems like a problem to thoroughly investigate to arrive at a potential solution 
+- the effect could be a net positive for the schools because they could eliminate paper usage while eliminating bloated 
+office staff and non-teaching personnel positions, freeing up office space for more classrooms, hiring more teachers, and hiring actual security personnel
+
 
 ### id card requirements
 
