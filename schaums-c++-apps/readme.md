@@ -1,1 +1,0 @@
-# Schaum's C++ Programming
