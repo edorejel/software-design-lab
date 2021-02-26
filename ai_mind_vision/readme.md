@@ -1,8 +1,8 @@
 # Mind Vision
 
-(*Project is due for revision. I've grown a lot as a person. Can something be coded from this? I don't know...*)
+(*Project is really due for a major revision. I've grown a lot as a person. Can something be coded from this? I don't know...*)
 
-There's one projects here. I 'dreamt' up this project on the side during an advanced software engineering (CS5337 at Cal State LA) class. Perhaps the research I did in that course helped facilitate the creation of this system.
+There's only one projects here. I 'dreamt' up this project on the side during an advanced software engineering (CS5337 at Cal State LA) class. The actual project for the class was subcomponent of the Mars Rover. As far as this side project goes, perhaps the research I did in that course helped facilitate the creation of this system.
 
 - -----------------------------------------------------------------------------------------------
 
