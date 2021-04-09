@@ -21,7 +21,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 
-#### lex friedman
+#### lex fridman
 
 Interesting stuff by Lex Friedman.
 
@@ -29,7 +29,7 @@ Interesting stuff by Lex Friedman.
 - If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
 - What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
 - "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
-
+- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
 - ---------------------------------------------------------------------------------------------------------------
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
