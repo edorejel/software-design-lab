@@ -20,6 +20,15 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
+
+#### lex friedman
+
+Interesting stuff by Lex Friedman.
+
+- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
+- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
+- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
+
 - ---------------------------------------------------------------------------------------------------------------
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
