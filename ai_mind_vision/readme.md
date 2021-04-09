@@ -28,6 +28,7 @@ Interesting stuff by Lex Friedman.
 - Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
 - If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
 - What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
+- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
 
 - ---------------------------------------------------------------------------------------------------------------
 #### It Started With This
