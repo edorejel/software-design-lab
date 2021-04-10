@@ -30,6 +30,8 @@ Interesting stuff by Lex Friedman.
 - What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
 - "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
 - What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
+- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
+- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
 - ---------------------------------------------------------------------------------------------------------------
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
