@@ -32,7 +32,15 @@ Interesting stuff by Lex Friedman.
 - What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
 - Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
 - Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
+
+####  Qualia Research Institute
+
+Interesting research for the algorithms aspect.
+
+- The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
+
 - ---------------------------------------------------------------------------------------------------------------
+
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
 
