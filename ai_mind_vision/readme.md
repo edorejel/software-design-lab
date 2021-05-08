@@ -157,11 +157,6 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 - BioShock Did Something INCREDIBLE https://www.youtube.com/watch?v=dr1KRmmDjy0
 - The Story of BioShock: From 1 2 Infinity https://www.youtube.com/watch?v=WwtYlfDdCLU 
 
-#### An Essence of Life Discovered
-
-- I think I might have stumbled onto an essence of life within COVID-19's main thought process.
-- https://github.com/covid-cure/COVID-19#covid-19s-main-behavioral-pattern
-
 
 #### The Problem of Bringing People Back from the Dead
 
