@@ -50,7 +50,7 @@ Interesting research for the algorithms aspect.
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
 
-![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
+![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
 
 
 #### It Transformed Into This, But It Needs Work
