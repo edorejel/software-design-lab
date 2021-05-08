@@ -31,7 +31,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 ![mind-vision-00](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
 
 
-# Getting Closer
+# A Tad More Progress
 
 *Powerpoint comes next, it's easier to use for flowcharting purposes!*
 
