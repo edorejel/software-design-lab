@@ -21,7 +21,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 
-#### lex fridman
+#### Lex Fridman
 
 Interesting stuff by Lex Friedman.
 
@@ -38,6 +38,12 @@ Interesting stuff by Lex Friedman.
 Interesting research for the algorithms aspect.
 
 - The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
+
+#### Random Philosophical Research
+
+- Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
+- The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
+- What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
 
 - ---------------------------------------------------------------------------------------------------------------
 
