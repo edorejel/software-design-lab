@@ -16,34 +16,6 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 - eyewitness proof best kind? https://www.psychologicalscience.org/uncategorized/myth-eyewitness-testimony-is-the-best-kind-of-evidence.html
 - intuition https://en.wikipedia.org/wiki/Intuition  
 
-#### AI Queries to Ponder 
-
-- Could Descartes have invented AI without knowing?
-- Using Matrix movie references: Is Descartes the "Neo" of our time?
-
-#### Lex Fridman
-
-Interesting stuff by Lex Friedman.
-
-- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
-- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
-- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
-- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
-- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
-- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
-- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
-
-####  Qualia Research Institute
-
-Interesting research for the algorithms aspect.
-
-- The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
-
-#### Random Philosophical Research
-
-- Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
-- The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
-- What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
 
 - ---------------------------------------------------------------------------------------------------------------
 
@@ -125,6 +97,35 @@ At the most basic level, genes sense survival ability or reproductive ability. G
 give off an output, and this output could be what we call intuition. Intuition has to come from somewhere. It is most likely an 
 advantageous gene driven output.
 
+#### AI Queries to Ponder 
+
+- Could Descartes have invented AI without knowing?
+- Using Matrix movie references: Is Descartes the "Neo" of our time?
+
+#### Lex Fridman
+
+Interesting stuff by Lex Friedman.
+
+- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
+- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
+- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
+- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
+- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
+- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
+- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
+
+####  Qualia Research Institute
+
+Interesting research for the algorithms aspect.
+
+- The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
+
+#### Random Philosophical Research
+
+- Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
+- The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
+- What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
+
 #### COVID-19 Philosophical Issues
 
 There are some philosophical issues related to COVID-19. I am posting them here for analysis.
@@ -139,6 +140,10 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 ## Al Pacino Movies Heat and Devil's Advocate and The Recruit
 
 - This analysis has been posted here: https://github.com/xpqx/idea-central/tree/main/religious_motifs_in_al_pacino_films#religious-motifs-in-al-pacino-movies
+
+#### Friedrich Nietzsche
+- 10 Life Lessons From Friedrich Nietzsche (Existentialism) https://www.youtube.com/watch?v=ueBZZ8CRJCo
+- Friedrich Nietzsche - How To Be Extraordinary (Existentialism) https://www.youtube.com/watch?v=4lQqrB3cZ6k
 
 #### Bioshock 
 
