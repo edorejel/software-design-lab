@@ -22,10 +22,20 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
 
+# Started Here
+
 ![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
 
+# Making Progress
 
-![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
+![mind-vision-00](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
+
+
+# Getting Closer
+
+*Powerpoint comes next, it's easier to use for flowcharting purposes!*
+
+![mind-vision-000](https://raw.githubusercontent.com/xpqx/software-design-lab/main/ai_mind_vision/files/mind_vision_000.png)
 
 
 #### It Transformed Into This, But It Needs Work
