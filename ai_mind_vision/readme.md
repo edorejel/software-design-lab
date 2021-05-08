@@ -144,6 +144,7 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 #### Friedrich Nietzsche
 - 10 Life Lessons From Friedrich Nietzsche (Existentialism) https://www.youtube.com/watch?v=ueBZZ8CRJCo
 - Friedrich Nietzsche - How To Be Extraordinary (Existentialism) https://www.youtube.com/watch?v=4lQqrB3cZ6k
+- Friedrich Nietzsche - How To Find Yourself (Existentialism) https://www.youtube.com/watch?v=0OIZMGEQ298
 
 #### Bioshock 
 
