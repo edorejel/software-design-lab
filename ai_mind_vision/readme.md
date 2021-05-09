@@ -112,35 +112,6 @@ At the most basic level, genes sense survival ability or reproductive ability. G
 give off an output, and this output could be what we call intuition. Intuition has to come from somewhere. It is most likely an 
 advantageous gene driven output.
 
-#### AI Queries to Ponder 
-
-- Could Descartes have invented AI without knowing?
-- Using Matrix movie references: Is Descartes the "Neo" of our time?
-
-#### Lex Fridman
-
-Interesting stuff by Lex Friedman.
-
-- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
-- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
-- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
-- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
-- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
-- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
-- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
-
-####  Qualia Research Institute
-
-Interesting research for the algorithms aspect.
-
-- The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
-
-#### Random Philosophical Research
-
-- Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
-- The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
-- What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
-
 #### COVID-19 Philosophical Issues
 
 There are some philosophical issues related to COVID-19. I am posting them here for analysis.
@@ -156,10 +127,7 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 
 - This analysis has been posted here: https://github.com/xpqx/idea-central/tree/main/religious_motifs_in_al_pacino_films#religious-motifs-in-al-pacino-movies
 
-#### Friedrich Nietzsche
-- 10 Life Lessons From Friedrich Nietzsche (Existentialism) https://www.youtube.com/watch?v=ueBZZ8CRJCo
-- Friedrich Nietzsche - How To Be Extraordinary (Existentialism) https://www.youtube.com/watch?v=4lQqrB3cZ6k
-- Friedrich Nietzsche - How To Find Yourself (Existentialism) https://www.youtube.com/watch?v=0OIZMGEQ298
+
 
 #### Bioshock 
 
@@ -197,8 +165,6 @@ This problem might be greater than the problem of evil.
 > I love 6 Underground (you'd be surprised why).
 
 - Explaining The End of 6 Underground https://www.youtube.com/watch?v=njk8C7hGl_8
-
-
 
 #### Good Villians, Bad Heroes, Good Masters, Evil Slaves
 
@@ -239,7 +205,7 @@ Spiteful jealousy is a different kind of jealousy. Spiteful jealousy is the kind
 
 > i was listening to a bit of joe rogan when he mentioned chimps, i'm not sure how i ended up on his channel, he seems like a good dude, the clip on chimps is interesting
 
-Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
+- Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
 
 __Is Spiteful Jealousy IQ Driven?__ That is, the lower your IQ, the higher the impulse to act with spiteful jealousy?
 
@@ -262,8 +228,6 @@ I would say this trait is their spark of life similar to how the spark of life i
 - Epigenetics https://www.youtube.com/watch?v=kp1bZEUgqVI 
 - What is epigenetics? - Carlos Guerrero-Bosagna https://www.youtube.com/watch?v=_aAhcNjmvhc
 
-
-
 #### Why the Mind Hates Mediation
 
 - Why The Mind Hates Meditation https://www.youtube.com/watch?v=_ASiw_XyYdE
@@ -284,6 +248,35 @@ I would say this trait is their spark of life similar to how the spark of life i
 
 - Who is Max?: Fury Road's Hidden Meaning https://www.youtube.com/watch?v=iaaOktcdkHw
 
+####  Qualia Research Institute
+
+Interesting research for the algorithms aspect.
+
+- The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
+
+#### Random Philosophical Research
+
+- Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
+- The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
+- What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
+
+
+#### AI Queries to Ponder 
+
+- Could Descartes have invented AI without knowing?
+- Using Matrix movie references: Is Descartes the "Neo" of our time?
+
+#### Lex Fridman
+
+Interesting stuff by Lex Friedman.
+
+- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
+- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
+- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
+- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
+- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
+- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
+- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
 
 
 #### Marcus Aurelius 
@@ -356,6 +349,9 @@ representations of artificial intelligence. Artificial intelligence, for humans 
 - Fredrich Nietzsche - the Anti-Christ {{FULL AUDIOBOOK}} https://www.youtube.com/watch?v=ThFvNiuvfF8 
 - Nietzsche and the Nazis: Full Audiobook https://www.youtube.com/watch?v=a2C90l7YlT8
 - Nietzsche: Life Changing Quotes https://www.youtube.com/watch?v=4WkcYaAecOQ
+- 10 Life Lessons From Friedrich Nietzsche (Existentialism) https://www.youtube.com/watch?v=ueBZZ8CRJCo
+- Friedrich Nietzsche - How To Be Extraordinary (Existentialism) https://www.youtube.com/watch?v=4lQqrB3cZ6k
+- Friedrich Nietzsche - How To Find Yourself (Existentialism) https://www.youtube.com/watch?v=0OIZMGEQ298
 
 #### Sapolsky 
 - Robert Sapolsky: Are Humans Just Another Primate? https://www.youtube.com/watch?v=YWZAL64E0DI
