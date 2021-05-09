@@ -26,18 +26,14 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 ![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
 
-# Making Progress
+# Making Progress But Finished (for now)
+
+*I think this is it. Powerpoint comes next, it's easier to use for flowcharting purposes!*
 
 ![mind-vision-00](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
 
 
-# A Tad More Progress
-
-*Powerpoint comes next, it's easier to use for flowcharting purposes!*
-
-![mind-vision-000](https://raw.githubusercontent.com/xpqx/software-design-lab/main/ai_mind_vision/files/mind_vision_000.png)
-
-### Just When I Thought I Made Progress
+# Just When I Thought I Made Progress
 
 - Some Viruses Have a Completely Different Genome to The Rest of Life on Earth https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth
 
