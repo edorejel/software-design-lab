@@ -37,18 +37,20 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 ![mind-vision-000](https://raw.githubusercontent.com/xpqx/software-design-lab/main/ai_mind_vision/files/mind_vision_000.png)
 
+### Just When I Thought I Made Progress
+
+- Some Viruses Have a Completely Different Genome to The Rest of Life on Earth https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth
 
 #### It Transformed Into This, But It Needs Work
-![mind-vision-19](https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png)
-- ----------------------------------------------------------------------------------------------------------------
-- ----------------------------------------------------------------------------------------------------------------
+
+https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png
+
+
 #### Test Cases
 
 - https://github.com/xpqx/software-design/tree/main/ai_mind_vision/test_cases#test-cases
-- ----------------------------------------------------------------------------------------------------------------
-- ------------------------------------------------------------------------------------------------
 
-- ----------------------------------------------------------------------------------------------
+
 __Author notes:__ good potential in this project for other projects and literature works (both formal and informal)
 
 __Immediate (deductive for now) revelation through this project:__ Humans have free will insofar as the genes' ability to reproduce and survive is not endangered. The brain, being the control system of humans, will allow humans to engage in and experience a wide range of activity both positive and negative, as long as its ability to reproduce and survive is not endangered. The brain might be
