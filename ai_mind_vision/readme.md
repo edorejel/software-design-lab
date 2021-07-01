@@ -26,11 +26,14 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 ![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
 
-# Making Progress But Finished (for now)
+~~# Making Progress But Finished (for now)~~
+~~*I think this is it. Powerpoint comes next, it's easier to use for flowcharting purposes!*~~
 
-*I think this is it. Powerpoint comes next, it's easier to use for flowcharting purposes!*
+# More Progress Made (I am beside myself in tears right now)
 
-![mind-vision-00](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_00.png)
+*This might be it. I think this is the one.*
+
+![mind-vision-01](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_01.png)
 
 
 # Just When I Thought I Made Progress
