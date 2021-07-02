@@ -40,6 +40,9 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 - Some Viruses Have a Completely Different Genome to The Rest of Life on Earth https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth
 
+- Mind-controlling parasite makes hyena cubs more reckless around lions https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
+
+
 #### It Transformed Into This, But It Needs Work
 
 https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png
