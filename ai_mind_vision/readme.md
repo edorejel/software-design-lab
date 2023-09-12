@@ -8,7 +8,7 @@ There's only one projects here. I 'dreamt' up this project on the side during an
 
 #### Mind Vision - Basic Artificial Intelligence (AI) System
 
-I need a name for this thing. I think this is more of a male AI than a female AI.
+I need a name for this thing. I think this is more of a male AI than a female AI. A neutral AI is more appropriate for now. 
 
 #### Minor Research to Help With The Project
 
@@ -22,14 +22,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 #### It Started With This
 (*I think this flowchart is tattoo worthy!*)
 
-# Started Here
-
-![mind-vision-0](https://raw.githubusercontent.com/xpqx/software-design/main/ai_mind_vision/files/mind_vision_0.png)
-
-~~# Making Progress But Finished (for now)~~
-~~*I think this is it. Powerpoint comes next, it's easier to use for flowcharting purposes!*~~
-
-# More Progress Made (I am beside myself in tears right now)
+# Started Here - More Progress Made (I am beside myself in tears right now)
 
 *This might be it. I think this is the one.*
 
