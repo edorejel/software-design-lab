@@ -30,7 +30,7 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 
 
-# Updating Mind-Vision AI Software
+# Updating Mind-Vision AI Software Idea
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
