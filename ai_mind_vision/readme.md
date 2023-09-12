@@ -36,6 +36,12 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 ![mind-vision-01](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_01.png)
 
 
+
+# Updating Mind-Vision AI Software
+
+![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
+
+
 # Just When I Thought I Made Progress
 
 - Some Viruses Have a Completely Different Genome to The Rest of Life on Earth https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth
