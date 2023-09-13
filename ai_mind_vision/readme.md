@@ -33,6 +33,9 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 > Seems like Descartes knew there were two systems at work inside a human: (1) the human mind, (2) the human brain. Looks like I can finally create a PowerPoint slide to better illustrate
 how Mind-Visin AI will process beliefs/stimuli).
+> “I think, therefore I am” is a phrase by 17th century French philosopher René Descartes. It appears in his 1637 book Discourse on the Method. In his most famous work, Meditations on First Philosophy, he changes the wording to “I am, I exist”.
+> What does Descartes mean by I am I exist?
+A statement by the seventeenth-century French philosopher René Descartes. “I think; therefore I am” was the end of the search Descartes conducted for a statement that could not be doubted. He found that he could not doubt that he himself existed, as he was the one doing the doubting in the first place.
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
