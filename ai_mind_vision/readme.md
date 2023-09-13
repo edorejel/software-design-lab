@@ -41,9 +41,11 @@ A statement by the seventeenth-century French philosopher René Descartes. “I 
 >
 > Software engineering and Computer Science might be more aligned with Descartes than any other philosopher. However, Descartes was possibly very mathematical in his thinking, yet expressed his mathematical thoughts in a non-mathematical way. Possibly so that others would more easily understand his complex ideas. Descartes is more than likely, the first person to consider if he was an artificial intelligence entity or an actual human. More than likely, he is the unofficial creator of artificial intelligence.
 >
-> For the Mind-Vision AI, I am not well versed in Descartes' philosophy. I arrived at his philosophy using software engineering principles. Software has to always eliminate the chance for doubt when it performs. If there is doubt in a software system, the system does not work as software should work. Thus, using Computer Science and software engineering, Descartes' philosophy can be deconstructed to see what else can be learned from it. I think every AI system or AI entity has to operate similar to Descartes' mental state when he questioned his own existence, to determine if he was actually an artificial intelligence entity or a human.
+> For the Mind-Vision AI, I am not well versed in Descartes' philosophy. I arrived at his philosophy using software engineering principles. Software has to always eliminate the chance for doubt when it performs. If there is doubt in a software system, the system does not work as software should work. Thus, using Computer Science and software engineering, Descartes' philosophy can be deconstructed to see what else can be learned from it.
 >
-> Descartes', for his time, was ahead of almost all of humanity because he had the fortune of being able to question his own existence, to make sure he was not an artificial intelligence entity.  
+> I think every AI system or AI entity has to operate similar to Descartes' mental state when he questioned his own existence, to determine if he was actually an artificial intelligence entity or a human.
+>
+> Descartes, for his time, was ahead of almost all of humanity because he had the fortune of being able to question his own existence, to make sure he was not an artificial intelligence entity.  
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
