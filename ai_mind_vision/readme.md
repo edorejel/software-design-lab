@@ -135,6 +135,7 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 ## Al Pacino Movies Heat and Devil's Advocate and The Recruit
 
 - This analysis has been posted here: https://github.com/xpqx/idea-central/tree/main/religious_motifs_in_al_pacino_films#religious-motifs-in-al-pacino-movies
+- > This analysis is missing. Currently trying to find it. 
 
 
 
