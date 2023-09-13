@@ -8,7 +8,7 @@ There's only one projects here. I 'dreamt' up this project on the side during an
 
 ## Mind Vision - Basic Artificial Intelligence (AI) System
 
-I need a name for this thing. I think this is more of a male AI than a female AI. A neutral AI is more appropriate for now. 
+I need a name for this thing. I think this is more of a male AI than a female AI, but A neutral AI is more appropriate for now. 
 
 ## Minor Research to Help With The Project
 
@@ -30,6 +30,9 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 
 ## Updating Mind-Vision AI Software Idea
+
+> Seems like Descartes knew there were two systems at work inside a human: (1) the human mind, (2) the human brain. Looks like I can finally create a PowerPoint slide to better illustrate
+how Mind-Visin AI will process beliefs/stimuli).
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
