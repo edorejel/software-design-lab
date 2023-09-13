@@ -38,6 +38,8 @@ how Mind-Visin AI will process beliefs/stimuli).
 >
 > What does Descartes mean by I am I exist?
 A statement by the seventeenth-century French philosopher René Descartes. “I think; therefore I am” was the end of the search Descartes conducted for a statement that could not be doubted. He found that he could not doubt that he himself existed, as he was the one doing the doubting in the first place.
+>
+> Software engineering and Computer Science might be more aligned with Descartes than any other philosopher. However, Descartes was possibly very mathematical in his thinking, yet expressed his mathematical thoughts in a non-mathematical way. Possibly so that others would more easily understand his complex ideas. Descartes is more than likely, the first person to consider if he was an artificial intelligence entity or an actual human. More than likely, he is the unofficial creator of artificial intelligence.
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
