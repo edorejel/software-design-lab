@@ -43,7 +43,9 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 ## It Transformed Into This, But It Needs Work
 
-https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png
+*In the process of designing the brains of the Mind-Vision AI. The ultimate AI has to process quite a bit of information to make perfect decisions.*
+
+[Big Conceptual Flowchart - Mind-Vision's Brains](https://github.com/edorejel/software-design-lab/blob/main/ai_mind_vision/files/mind_vision_19.png)
 
 
 ## Test Cases
