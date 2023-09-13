@@ -6,11 +6,11 @@ There's only one projects here. I 'dreamt' up this project on the side during an
 
 - -----------------------------------------------------------------------------------------------
 
-#### Mind Vision - Basic Artificial Intelligence (AI) System
+## Mind Vision - Basic Artificial Intelligence (AI) System
 
 I need a name for this thing. I think this is more of a male AI than a female AI. A neutral AI is more appropriate for now. 
 
-#### Minor Research to Help With The Project
+## Minor Research to Help With The Project
 
 - types of proofs https://www.sparknotes.com/math/geometry3/geometricproofs/terms/
 - eyewitness proof best kind? https://www.psychologicalscience.org/uncategorized/myth-eyewitness-testimony-is-the-best-kind-of-evidence.html
@@ -19,35 +19,34 @@ I need a name for this thing. I think this is more of a male AI than a female AI
 
 - ---------------------------------------------------------------------------------------------------------------
 
-#### It Started With This
+## It Started With This
 (*I think this flowchart is tattoo worthy!*)
 
-# Started Here - More Progress Made (I am beside myself in tears right now)
+## Started Here - More Progress Made (I am beside myself in tears right now)
 
 *This might be it. I think this is the one.*
 
 ![mind-vision-01](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_01.png)
 
 
-
-# Updating Mind-Vision AI Software Idea
+## Updating Mind-Vision AI Software Idea
 
 ![mind-vision-02](https://github.com/xpqx/software-design-lab/blob/main/ai_mind_vision/new-vision-flowcharts/mind_vision_02.png)
 
 
-# Just When I Thought I Made Progress
+## Just When I Thought I Made Progress
 
 - Some Viruses Have a Completely Different Genome to The Rest of Life on Earth https://www.sciencealert.com/some-bacteriophages-have-a-completely-different-genome-to-the-rest-of-life-on-earth
 
 - Mind-controlling parasite makes hyena cubs more reckless around lions https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions
 
 
-#### It Transformed Into This, But It Needs Work
+## It Transformed Into This, But It Needs Work
 
 https://github.com/xpqx/software-design/blob/main/ai_mind_vision/files/mind_vision_19.png
 
 
-#### Test Cases
+## Test Cases
 
 - https://github.com/xpqx/software-design/tree/main/ai_mind_vision/test_cases#test-cases
 
@@ -113,13 +112,13 @@ At the most basic level, genes sense survival ability or reproductive ability. G
 give off an output, and this output could be what we call intuition. Intuition has to come from somewhere. It is most likely an 
 advantageous gene driven output.
 
-#### COVID-19 Philosophical Issues
+## COVID-19 Philosophical Issues
 
 There are some philosophical issues related to COVID-19. I am posting them here for analysis.
 
 - I'll re-upload these later. I think I need to review them.
 
-#### Ideological Subversion 
+## Ideological Subversion 
 
 - Black Ops Cold War - Yuri Bezmenov Interview https://www.youtube.com/watch?v=xA7w4x5xTbc
 
@@ -130,7 +129,7 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 
 
 
-#### Bioshock 
+## Bioshock 
 
 > bioshock related
 
@@ -142,15 +141,15 @@ There are some philosophical issues related to COVID-19. I am posting them here 
 - The Story of BioShock: From 1 2 Infinity https://www.youtube.com/watch?v=WwtYlfDdCLU 
 
 
-#### The Problem of Bringing People Back from the Dead
+## The Problem of Bringing People Back from the Dead
 
 __Update! I love this idea!__ Imagine being able to do this? I'll definitely re-upload this after I review my original thoughts.
 This problem might be greater than the problem of evil.  
 
-#### Bioshock Infinite
+## Bioshock Infinite
 - Bioshock Infinite Full Storyline Explained (Campaign & Burial at Sea) https://www.youtube.com/watch?v=54GS-hDb3Y8
 
-#### kinetic typography bioshock
+## kinetic typography bioshock
 
 - Would You Kindly Kinetic Typography https://www.youtube.com/watch?v=0KImkVAQ0Gg 
 
@@ -161,13 +160,13 @@ This problem might be greater than the problem of evil.
 - Subverting the logic of slavery: Django Unchained: How to DESTROY An Ideology – Wisecrack Edition https://www.youtube.com/watch?v=H5yvhP-9mik
 
 
-#### The Meaning of Ghosts
+## The Meaning of Ghosts
 
 > I love 6 Underground (you'd be surprised why).
 
 - Explaining The End of 6 Underground https://www.youtube.com/watch?v=njk8C7hGl_8
 
-#### Good Villians, Bad Heroes, Good Masters, Evil Slaves
+## Good Villians, Bad Heroes, Good Masters, Evil Slaves
 
 - Why Our Villains Are Different Now (Thanos, The Joker, Killmonger) – Wisecrack Edition https://www.youtube.com/watch?v=WROjphkh3NA
 
@@ -175,12 +174,12 @@ This problem might be greater than the problem of evil.
 
 - Batman Unmasked The Psychology Of The Dark Knight HDTV https://www.youtube.com/watch?v=g1_d7vcvXkc
 
-#### Lucky Number Slevin Analysis
+## Lucky Number Slevin Analysis
 
 - Film Analysis - Lucky Number Slevin https://www.youtube.com/watch?v=FOeB-4shwFI
 
 
-#### Wim Hof Primitive Brain
+## Wim Hof Primitive Brain
 
 We all have a primitive brain. Modern lifestyles and technology might prevent it from becoming fully active. The brain of today, is technically, still the same brain that evolved and endured many years of evolution. You could argue that the human-brain is the ultimate survival athlete. Wim Hof's method appears to signal to the primitive brain that it is needed for survival.
 
@@ -191,7 +190,7 @@ We all have a primitive brain. Modern lifestyles and technology might prevent it
 - This Trick Makes You Immune To Illness | Wim Hof on Impact Theory https://www.youtube.com/watch?v=TM6WKeZ43s4
 
 
-#### Primate Spiteful Jealousy
+## Primate Spiteful Jealousy
 
 __Would you rather:__
 - be attacked by a pitbull
@@ -204,9 +203,9 @@ Spiteful jealousy is a different kind of jealousy. Spiteful jealousy is the kind
 
 - vicious jealousy Joe Rogan | Chimps Are Vicious!! https://www.youtube.com/watch?v=4ndtuYQHQIk
 
-> i was listening to a bit of joe rogan when he mentioned chimps, i'm not sure how i ended up on his channel, he seems like a good dude, the clip on chimps is interesting
+> I was listening to a bit of Joe Rogan when he mentioned chimps. I'm not sure how I ended up on his channel; he seems like a good dude. The clip on chimps is interesting
 
-- Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
+- - Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
 
 __Is Spiteful Jealousy IQ Driven?__ That is, the lower your IQ, the higher the impulse to act with spiteful jealousy?
 
@@ -224,16 +223,16 @@ I would say this trait is their spark of life similar to how the spark of life i
 - Chimps' attack on man might have been jealousy, expert says https://www.dailypress.com/news/dp-xpm-20050305-2005-03-05-0503050204-story.html
 - Orangutan bit off baby ape's arm 'because he was jealous of attention the youngster was getting from adoptive mother' https://www.dailymail.co.uk/news/article-2647607/Orangutan-bit-baby-apes-arm-jealous-attention-youngster-getting-adoptive-mother.html
 
-#### epigenetics
+## epigenetics
 
 - Epigenetics https://www.youtube.com/watch?v=kp1bZEUgqVI 
 - What is epigenetics? - Carlos Guerrero-Bosagna https://www.youtube.com/watch?v=_aAhcNjmvhc
 
-#### Why the Mind Hates Mediation
+## Why the Mind Hates Mediation
 
 - Why The Mind Hates Meditation https://www.youtube.com/watch?v=_ASiw_XyYdE
 
-#### Equilibrium Movie 
+## Equilibrium Movie 
 
 - The Symbolism of Equilibrium https://the-artifice.com/the-symbolism-of-equilibrium/
 - Equilibrium Review https://www.rogerebert.com/reviews/equilibrium-2002
@@ -243,44 +242,44 @@ I would say this trait is their spark of life similar to how the spark of life i
 - Everything GREAT About Equilibrium! https://www.youtube.com/watch?v=QaBjclLud3A
 - Grammaton Cleric bringing Brandt to Father scene - Equilibrium https://www.youtube.com/watch?v=i7xFijzlEyQ
 
-#### Mad Max Fury Road
+## Mad Max Fury Road
 
 > symbolism and meaning explained, this one is deep, blew my mind
 
 - Who is Max?: Fury Road's Hidden Meaning https://www.youtube.com/watch?v=iaaOktcdkHw
 
-####  Qualia Research Institute
+##  Qualia Research Institute
 
 Interesting research for the algorithms aspect.
 
 - The Hyperbolic Geometry of DMT Experiences (@Harvard Science of Psychedelics Club) https://www.youtube.com/watch?v=loCBvaj4eSg
 
-#### Random Philosophical Research
+## Random Philosophical Research
 
 - Who Am I? | The Philosophy of Alan Watts https://www.youtube.com/watch?v=QoPioWYAhcY
 - The Beauty of What We Just Don't Know (A Philosophy of Trust)  https://www.youtube.com/watch?v=seOhTjkRffQ
 - What If The World is Actually a Prison? | The Philosophy of Arthur Schopenhauer https://www.youtube.com/watch?v=0NBrce-ZHi0
 
 
-#### AI Queries to Ponder 
+## AI Queries to Ponder 
 
 - Could Descartes have invented AI without knowing?
 - Using Matrix movie references: Is Descartes the "Neo" of our time?
 
-#### Lex Fridman
+~~## Lex Fridman~~
 
-Interesting stuff by Lex Friedman.
+~~Interesting stuff by Lex Friedman.~~
 
-- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU 
-- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g
-- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U
-- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo
-- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk
-- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU
-- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ
+~~- Nic Carter: Bitcoin Core Values, Layered Scaling, and Blocksize Debates | Lex Fridman Podcast https://www.youtube.com/watch?v=mDyBbGCiBUU~~
+~~- If you can't explain it simply, you don't understand it | Nic Carter and Lex Fridman https://www.youtube.com/watch?v=S_G9k05Fm2g~~
+~~- What Lex Fridman Learned From Meeting Elon Musk | Joe Rogan https://www.youtube.com/watch?v=DTohHXHxe7U~~
+~~- "*Human beings are these really weird things.*" Jim Keller: Most People Don't Think Simple Enough | AI Podcast Clips https://www.youtube.com/watch?v=1CSeY10zbqo~~
+~~- What is a DMT trip like and who are the entities you meet? | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=Gy4QHTgikbk~~
+~~- Joe Rogan's DMT experience | Matthew Johnson and Lex Fridman https://www.youtube.com/watch?v=dZUBsvENhhU~~
+~~- Michio Kaku: Future of Humans, Aliens, Space Travel & Physics | Lex Fridman Podcast #45 https://www.youtube.com/watch?v=kD5yc1LQrpQ~~
 
 
-#### Marcus Aurelius 
+## Marcus Aurelius 
 
 - Who is Marcus Aurelius? https://dailystoic.com/marcus-aurelius/
 - Marcus Aurelius - Meditations - Audiobook https://www.youtube.com/watch?v=d5E2AQKuCyU
@@ -292,7 +291,7 @@ Interesting stuff by Lex Friedman.
 - MARCUS AURELIUS - The Meditations [STOIC QUOTES] https://www.youtube.com/watch?v=vXkOd-gb4ik
 - Marcus Aurelius: How to Think Clearly https://www.youtube.com/watch?v=2eB5zqN01oo
 
-#### Random Ancient Greek Quotes
+## Random Ancient Greek Quotes
 
 - Ancient Greek Quotes to Strengthen Your Character https://www.youtube.com/watch?v=1mZYOhYDQog
 - Genius Stoic Quotes for a Strong Mind https://www.youtube.com/watch?v=yBRQixqHVqk
@@ -300,7 +299,7 @@ Interesting stuff by Lex Friedman.
 - The Greatest Stoic Quotes - LIFE CHANGING - [STOICISM] https://www.youtube.com/watch?v=I7wMUK9cmBA
 
 
-#### Epictetus
+## Epictetus
 
 > Epictetus was a Greek Stoic philosopher. Whats incredible is that he was born a slave. A Greek philosopher of 1st and early 
 > 2nd centuries C.E., and an exponent of Stoic ethics notable for the consistency and power of his ethical thought and for 
@@ -312,10 +311,10 @@ Interesting stuff by Lex Friedman.
 - Epictetus - LIFE CHANGING Quotes - STOICISM https://www.youtube.com/watch?v=uzMuIlZhPfA
 - Epictetus https://plato.stanford.edu/entries/epictetus/
 
-#### Seneca
+## Seneca
 - Seneca: LIFE CHANGING Quotes (Stoicism) https://www.youtube.com/watch?v=XQe8kXsEBmI
 
-#### Stoicism
+## Stoicism
 > - alternative definition: the endurance of pain or hardship without the display of feelings and without complaint, it is also a philosophical school of thought
 - https://en.wikipedia.org/wiki/Stoicism 
 - https://plato.stanford.edu/entries/stoicism/
@@ -330,20 +329,20 @@ Interesting stuff by Lex Friedman.
 - __Marcus Aurelius__ - Motivational quotes [Stoicism] Part 2 - https://www.youtube.com/watch?v=tqmKkKWvrxk
 
 
-#### Ayn Rand
+## Ayn Rand
 - related: Objectivism: Ayn Rand Interview with Tom Snyder https://www.youtube.com/watch?v=cAFKnfN4bfk
 - The ideal man: Ayn Rand interviewed by James Day https://www.youtube.com/watch?v=1ixclrtypKo
 - Ayn Rand - What Is Capitalism? (full course) https://www.youtube.com/watch?v=EmcmauM78FE
 - Ayn Rand and the "New Intellectual" https://www.youtube.com/watch?v=IeaAC832gG4
 - Ayn Rand on Love and Happiness | Blank on Blank https://www.youtube.com/watch?v=mQVrMzWtqgU 
 
-#### Descartes
+## Descartes
 - René Descartes https://plato.stanford.edu/entries/descartes/
 - Descartes might have invented the concept of artificial intelligence, but it was called by a different name.
 - As humans evolved, humans' perception of artificial intelligence also evolved. Humans have not experienced actual physical
 representations of artificial intelligence. Artificial intelligence, for humans in their current stage of evolution, exists in movies, unexpressed ideas, or other physical mediums such as books. 
 
-#### Nietzsche
+## Nietzsche
 - Friedrich Nietzsche https://plato.stanford.edu/entries/nietzsche/
 - Nietzsche In Twelve Minutes https://www.youtube.com/watch?v=S4baePsCT_E
 - Who Is Friedrich Nietzsche, What Did He Believe In, and Why Is He Important? https://www.youtube.com/watch?v=OFOb8CJOhYs
@@ -354,21 +353,21 @@ representations of artificial intelligence. Artificial intelligence, for humans 
 - Friedrich Nietzsche - How To Be Extraordinary (Existentialism) https://www.youtube.com/watch?v=4lQqrB3cZ6k
 - Friedrich Nietzsche - How To Find Yourself (Existentialism) https://www.youtube.com/watch?v=0OIZMGEQ298
 
-#### Sapolsky 
+## Sapolsky 
 - Robert Sapolsky: Are Humans Just Another Primate? https://www.youtube.com/watch?v=YWZAL64E0DI
 - Robert Sapolsky: The Biology of Humans at Our Best and Worst https://www.youtube.com/watch?v=GRYcSuyLiJk
 - Professor Sapolsky Explains the Origin of Religion Part 1/2 https://www.youtube.com/watch?v=LNSe4Ff57n4
 - Professor Sapolsky Explains the Origin of Religion Part 2/2 https://www.youtube.com/watch?v=U8GFQRAlDmE
 
-#### LAO TZU
+## LAO TZU
 - HOW TO LIVE A GOOD LIFE - LAO TZU https://www.youtube.com/watch?v=tfdHR_A8p1k
 
-#### Kant
+## Kant
 - PHILOSOPHY - Kant: On Metaphysical Knowledge [HD] https://www.youtube.com/watch?v=vZtQXteAE-w
 - IMMANUEL KANT BY CHRISTOPHER INSOLE https://www.youtube.com/watch?v=bfkfBoTQN4I
 - Will Durant---The Philosophy of Kant https://www.youtube.com/watch?v=Yntk1Zi6iC4
 
-#### the problem of evil
+## the problem of evil
 - ----------------------------------------------------------------------------------
 - potential reconciliation ~~solution~~ to the problem of evil and god has been found...by me, of course
 - the reconciliation would require that you alter your perceptions of good and evil, god, and the devil, 
@@ -384,7 +383,7 @@ heaven and hell
 - The Problem of Suffering and Evil (1) - William Lane Craig at Aalborg University https://www.youtube.com/watch?v=4Q5zQC2BEVY
 - The Problem of Suffering and the Goodness of God - Ravi Zacharias at Johns Hopkins https://www.youtube.com/watch?v=t7-gP1gC8gM
 - -------------------------------------------------------------------------------------
-#### the problem of the real life simulation
+## the problem of the real life simulation
 - are we living in a computer simulated world, how to prove or disprove
 - __Author notes:__ some research is required in this area. Research in this area has not been used in designing the Basic AI system above. Unrelatedly, the best programming language ever created is the programming language humans use to go from thinking something to doing something. For example, I am jogging. I think I want to run faster, so I run faster.  If I were to think, "I wish I could run faster." Then, I would not run faster or do anything else related to running faster. I would only be wishing. I want to believe it is impossible to run very fast while thinking, "I am running slow."
 - I think it might be impossible to run in a sprinting fashion while thinking to oneself, "I am running slow." Or, "I am sprinting slow." This might be an ingrained pattern of behavior in humans as a result of years of evolution. It is safe to assume that sprinting (and running) helped humans survive various things. Thus, when we sprint, we should not be thinking (or entertaining the possibility of telling oneself), "I am sprinting slow." This notion appears to go back to Descartes' phrase, "I think, therefore, I am".
@@ -392,7 +391,7 @@ heaven and hell
 - -------------------------------------------------------------------------------------
 
 - ------------------------------------------------------------------------------------------------
-#### related links
+## related links
 - 15 Logical Fallacies You Should Know Before Getting Into a Debate https://thebestschools.org/magazine/15-logical-fallacies-know/
 - "soundness in logic" http://www.philosophy-index.com/logic/terms/soundness.php
 - "soundness in logic examples" https://www.iep.utm.edu/val-snd/
@@ -455,7 +454,7 @@ music, we need to change immigration laws.
 - ------------------------------------------------------------------------------------------------------
 - -----------------------------------------------------------------------------------------------------
 - ---------------------------------------------------------------------------------------------------------
-#### Requirements Gathering: My Research 
+## Requirements Gathering: My Research 
 - -------------------------------------------------------------------------------------------------------
 - this blew my mind, hopefully it blows yours, too
 - ---------------------------------------------------------------------------------------------------------
@@ -495,7 +494,7 @@ the mind. Thus, can it be the case that our brains control our behaviors to ensu
 - Since the brain cannot survive without us, it means that we have free will as long as the brain is kept alive. This is not free will.  
 - Blindness through the eyes is more curable than the common cold. We need the common cold (that's the popular belief), we don't need blindness through the eyes or the brain.
 - ---------------------------------------------------------------------------------------------------------
-#### Related Research 
+## Related Research 
 - This concept is being worked on by others. I'll see how far I can go with this. I wasn't aware this type of project was in development. I thought I came up with this idea as project for a question in an advanced software engineering midterm. It shows that this type of 
 medical advancement is possible. It just had to be discovered. In both instances, this concept was discovered in the right place: an academic setting. __Should I look into a patent for this? I probably should. I definitely will.__ 
 - Further, I think the brain evolved the way it did as a sign to us that in the event the 
@@ -541,7 +540,7 @@ understands the deciphered code. The human mind adds meaning to the deciphered c
 - This is a major project and would require research, testing, clinical trials, etc, but ultimately, this is possible.
 - --------------------------------------------------------------------------------------------------
 
-#### philosophical questions:
+## philosophical questions:
 
 - If I stimulate the occipital lobe of a blind person to make them think they are experiencing blinding 
 bright light through the eyes, will they be blinded by the stimulation in their mind? Will their mind respond as if
@@ -554,7 +553,7 @@ You remember some of the things you see while you dream. You remember some of th
 
 
 - ----------------------------------------------------------------------------------------------------------
-#### related research
+## related research
 - Where is vision processed in the brain? https://www.quora.com/Where-is-vision-processed-in-the-brain
 - ----------------------------------------------------------------------------------------------------------
 - ----------------------------------------------------------------------------------------------------------
