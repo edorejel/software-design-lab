@@ -1,10 +1,17 @@
-# Mind Vision
+# Mind Vision Artificial Intelligence System
+
+Latest update: progress will resume on this project. Research for this project was always ongoing, but had reached an intellectual plateau. 
+As a result of working on a different, unrelated project, a new hypothesis related to AI and technology has been generated, and this new hypothesis jump started the research to the point where something might be able to be formalized "on paper."
 
 (*Project is really due for a major revision. I've grown a lot as a person. Can something be coded from this? I don't know...*)
 
-There's only one projects here. I 'dreamt' up this project on the side during an advanced software engineering (CS5337 at Cal State LA) class. The actual project for the class was a subcomponent for the Mars Rover. As far as this side project goes, perhaps the research I did in that course helped facilitate the creation of this system.
+There's only one projects here. I 'dreamt' up this project on the side during an advanced software engineering class. The actual project for the class was a subcomponent for the [NASA Mars Rover](https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/). As far as this "AI side project" goes, perhaps the research I personally did in the course, helped facilitate the creation of this system, but this is giving the actual course way too much credit. Ultimately, I took the course, and the intellectual effort for the course helped in the creation of the Mind Vision AI-System. 
 
 - -----------------------------------------------------------------------------------------------
+
+## Possibly a Female AI System
+
+The system is still neutral. It might end up being a female AI. 
 
 ## Mind Vision - Basic Artificial Intelligence (AI) System
 
