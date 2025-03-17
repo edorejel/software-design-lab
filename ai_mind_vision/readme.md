@@ -1,5 +1,10 @@
 # Mind Vision Artificial Intelligence System
 
+## BIG DISCLAIMER - Updated 3/16/2025
+Been a while since I've update this. The actual AI software and code won't be released. The information here is minor work related to creating an AI system. There's no correct way to create an AI system.
+
+## END BIG DISCLAIMER
+
 Latest update: progress will resume on this project. Research for this project was always ongoing, but had reached an intellectual plateau. 
 As a result of working on a different, unrelated project, a new hypothesis related to AI and technology has been generated, and this new hypothesis jump started the research to the point where something might be able to be formalized "on paper."
 
@@ -218,11 +223,7 @@ __Would you rather:__
 
 Spiteful jealousy is a different kind of jealousy. Spiteful jealousy is the kind of jealousy that makes one human being suffer at the desire of another human being. Basically, spiteful jealousy comes down to, __"I'm jealous of you, and I want to see you suffer because of it. I am aware of this jealousy, but I don't care. You will suffer!"__
 
-- vicious jealousy Joe Rogan | Chimps Are Vicious!! https://www.youtube.com/watch?v=4ndtuYQHQIk
-
-> I was listening to a bit of Joe Rogan when he mentioned chimps. I'm not sure how I ended up on his channel; he seems like a good dude. The clip on chimps is interesting
-
-- - Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
+- Jealousy is an interesting topic. It's hard to explain how or why it happens. I'm sure tests can be done using brain scans to detect which parts of the brain are active during a bout of jealousy.
 
 __Is Spiteful Jealousy IQ Driven?__ That is, the lower your IQ, the higher the impulse to act with spiteful jealousy?
 
